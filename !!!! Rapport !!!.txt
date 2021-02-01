@@ -1,0 +1,25 @@
+                                                         Rapport de workshop Contre la montre
+
+
+
+J'ai essayé de créer une interface de site Web. J'ai utilisé plusieurs outils pour manipuler le site comme il faut (Visuel studio-outils Git- Et les ressources que vous nous avez données )
+
+
+
+Alors j'ai itulisé CSS qui vient de résoudre un problème bien différent du HTML en effet, le HTML sert à définir les différents éléments d’une page a leur donner du sens et Le CSS lui va servir à mettre en forme les différents contenus définis par le HTML en leur appliquant des style
+ 
+Visuel studio : Je préfère travailler VS , car il contient tous les outils nécessaires pour écrire correctement le code ainsi que il ma aider bcq pour identifier les bugs puis je les corriges ...
+
+Git : Instalitoo pour géré mon projet et l'envoyer au serveur github ( pour la synchronisation )
+
+
+
+Les probleme !!!
+
+Parmi les problèmes rencontrés
+  =Ecrire le code
+ Je ne sais pas comment organiser l'écriture, surtout dans ce domaine. Il n'accepte pas les erreurs. Parfois j'oublie de mettre un point et tombe dans un  problème, et j'ai dû supprimer le code et le réécrire
+Par contre, personne ne me soutient. Mais cela ne veut pas dire que je n'apprendrai pas la programmation, j'essaierai de me développer mon niveau
+
+
+DSl .. 9biila fl3chiya Knt Faible hta trii9 jatnii Twela 3liiha dezt mn gazo hhhh .. mara jaya mat3wedch 
