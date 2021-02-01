@@ -1,0 +1,141 @@
+
+/*Declaration des variables*/
+:root {
+
+    --color-green: #55c57a;
+    --color-green-light: #7ed56f;
+    --color-green-dark: #28b485;
+    --color-silver: #e4e7ea;
+    --color-white: #fff;
+    --color-black: #111;
+    --color-silver-text: #006110;
+    --color--silver-bg: #F1F1F4;
+    --color-silver-bg-dark: #999;
+    --color-red : #cd5c5c;
+}
+
+
+/*Selecteur HTML : starter font size : 10px */
+html {
+    font-size: 10px;
+    font-weight: 400;
+}
+
+/*Font family*/
+body {
+    font-family: $fontAsap;
+    
+}
+
+/*Box sizing layout*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sign-up{
+    display: flex;
+    flex-direction: row;
+    
+}
+.account-left{
+    color: rgb(0, 0, 0);
+    width: 70%;
+    background: url(/homeback.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  /* min-height: 900px; */
+  width: 100% ;
+  margin-left: auto;
+  position: relative;
+}
+.account-right{
+    display: flex;
+    text-align: center;
+    width: 30%;
+    height: 100vh;
+    justify-content: center;
+    align-content: center;
+    transform: translate(-0%,-0%);
+    background: #ffffff;
+    text-align: center;
+    border-radius: 9px;
+    box-shadow: 0 50px 50px;
+    padding: 4px;
+    
+    
+}
+.account-text{
+    color: rgb(255, 255, 255);
+    position: relative;
+    font-size: 18px;
+    line-height: 80px;
+    top: 130px;
+    left: 150px;
+
+    
+}
+.group{
+    position: relative;
+    top: 200px;
+    line-height: 40px;
+  
+     
+}
+.control{
+    /* width: 70%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center; */
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+
+}
+h2{
+    font-size: 23px;
+}
+.account-right h2{
+    color: rgb(30, 0, 112);
+    font-weight: 500;
+  
+  }
+  .account-right input[type="text"],.account-right input[type="password"],input[type="email"],.account-right input[type="file"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #008ce9;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    border-radius: 24px;
+    transition: 0.25s;
+  }
+  .account-right input[type="text"]:focus,.account-right input[type="password"]:focus , .account-right input[type="email"]:focus,.account-right input[type="file"]:focus{
+    width: 280px;
+    border-color: #2ecc71;
+  }
+  .account-right input[type="submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #01dfd4;
+    padding: 14px 25px;
+    outline: none;
+    color: black;
+    border-radius: 24px;
+    transition: 0.25s;
+    font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
+  }
+  .account-right input[type="submit"]:hover{
+    background: #2ecc71;
+  }
